@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="32">
+      <Unit0>
+        <Filename Value="MqttSpy.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="44" Y="6"/>
+        <UsageCount Value="206"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="91"/>
+        <CursorPos X="22" Y="92"/>
+        <UsageCount Value="206"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="u_timestrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="4"/>
+        <CursorPos X="34" Y="20"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="u_logging.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="10"/>
+        <CursorPos X="15" Y="34"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="u_client.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="48"/>
+        <CursorPos Y="36"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="MQTT.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="35"/>
+        <CursorPos X="30" Y="35"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="u_login.pas"/>
+        <TopLine Value="23"/>
+        <CursorPos X="42" Y="47"/>
+        <UsageCount Value="67"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="u_numstrings.pas"/>
+        <CursorPos X="45" Y="12"/>
+        <UsageCount Value="199"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="u_service.pas"/>
+        <ComponentName Value="FrmService"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="450"/>
+        <CursorPos X="86" Y="482"/>
+        <UsageCount Value="198"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="u_bar_h.pas"/>
+        <CursorPos X="25" Y="94"/>
+        <UsageCount Value="201"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="u_globals.pas"/>
+        <TopLine Value="34"/>
+        <CursorPos X="20" Y="60"/>
+        <UsageCount Value="198"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="u_warning.pas"/>
+        <ComponentName Value="FrmWarning"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="15"/>
+        <CursorPos X="53" Y="36"/>
+        <UsageCount Value="198"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="u_test.pas"/>
+        <ComponentName Value="FrmTest"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="144"/>
+        <CursorPos X="21" Y="151"/>
+        <UsageCount Value="87"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="u_bar.pas"/>
+        <CursorPos X="41" Y="11"/>
+        <UsageCount Value="34"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="u_display.pas"/>
+        <CursorPos X="39" Y="96"/>
+        <UsageCount Value="105"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="u_calc.pas"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="59"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="u_messages.pas"/>
+        <CursorPos X="11" Y="11"/>
+        <UsageCount Value="12"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="u_lingraph.lfm"/>
+        <UsageCount Value="75"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="u_lingraph.pas"/>
+        <ComponentName Value="FrmLinGraph"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="u_LinGraph"/>
+        <TopLine Value="6"/>
+        <CursorPos X="34" Y="31"/>
+        <UsageCount Value="80"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="u_tests.pas"/>
+        <ComponentName Value="FrmTests"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="63"/>
+        <CursorPos X="44" Y="115"/>
+        <UsageCount Value="7"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="u_selectcomport.pas"/>
+        <ComponentName Value="FrmSelectComPort"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="u_SelectComPort"/>
+        <TopLine Value="76"/>
+        <CursorPos X="19" Y="8"/>
+        <UsageCount Value="90"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="u_loggraph.pas"/>
+        <ComponentName Value="FrmLogGraph"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="u_LogGraph"/>
+        <TopLine Value="174"/>
+        <CursorPos X="54" Y="155"/>
+        <UsageCount Value="16"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="mystrings.pas"/>
+        <UnitName Value="MyStrings"/>
+        <CursorPos X="25" Y="15"/>
+        <UsageCount Value="33"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\components\Sdpo\SdpoSerial\sdposerial.pas"/>
+        <UnitName Value="SdpoSerial"/>
+        <TopLine Value="209"/>
+        <CursorPos Y="233"/>
+        <UsageCount Value="7"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="u_formats.pas"/>
+        <TopLine Value="2"/>
+        <CursorPos X="55" Y="104"/>
+        <UsageCount Value="53"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="E:\CALC\Exact\u_main.pas"/>
+        <ComponentName Value="FrmGUI"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:\lazarus\ide\ideguicmdline.pas"/>
+        <UnitName Value="IDEGuiCmdLine"/>
+        <TopLine Value="46"/>
+        <CursorPos X="30" Y="60"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <TopLine Value="2158"/>
+        <CursorPos Y="2182"/>
+        <UsageCount Value="5"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="synaser.pas"/>
+        <TopLine Value="1736"/>
+        <CursorPos X="39" Y="1761"/>
+        <UsageCount Value="3"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="u_mqtt.pas"/>
+        <TopLine Value="122"/>
+        <CursorPos X="23" Y="27"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="MQTTReadThread.pas"/>
+        <TopLine Value="152"/>
+        <CursorPos X="15" Y="176"/>
+        <UsageCount Value="9"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="synautil.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="2" Y="52"/>
+        <UsageCount Value="10"/>
+      </Unit31>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="84" Column="27" TopLine="42"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_logging.pas"/>
+        <Caret Line="10" Column="59"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="35" Column="2" TopLine="16"/>
+      </Position3>
+      <Position4>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="34" Column="9" TopLine="19"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_client.pas"/>
+        <Caret Line="35" Column="7"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_client.pas"/>
+        <Caret Line="48" Column="3" TopLine="24"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_client.pas"/>
+        <Caret Line="101" Column="9" TopLine="77"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_client.pas"/>
+        <Caret Line="33" Column="44" TopLine="7"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_client.pas"/>
+        <Caret Line="17" Column="58"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="52" Column="3" TopLine="28"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="75" Column="3" TopLine="42"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="71" Column="21" TopLine="26"/>
+      </Position12>
+      <Position13>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="74" Column="72" TopLine="39"/>
+      </Position13>
+      <Position14>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="113" TopLine="70"/>
+      </Position14>
+      <Position15>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="74" Column="5" TopLine="60"/>
+      </Position15>
+      <Position16>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="75" Column="5" TopLine="61"/>
+      </Position16>
+      <Position17>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="76" Column="5" TopLine="62"/>
+      </Position17>
+      <Position18>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="78" Column="5" TopLine="64"/>
+      </Position18>
+      <Position19>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="82" Column="3" TopLine="65"/>
+      </Position19>
+      <Position20>
+        <Filename Value="u_logging.pas"/>
+        <Caret Line="67" Column="2" TopLine="19"/>
+      </Position20>
+      <Position21>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="81" Column="35" TopLine="55"/>
+      </Position21>
+      <Position22>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="47" Column="26" TopLine="16"/>
+      </Position22>
+      <Position23>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="56" TopLine="40"/>
+      </Position23>
+      <Position24>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="90" Column="3" TopLine="80"/>
+      </Position24>
+      <Position25>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="139" TopLine="69"/>
+      </Position25>
+      <Position26>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="138" TopLine="90"/>
+      </Position26>
+      <Position27>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="90" Column="3" TopLine="75"/>
+      </Position27>
+      <Position28>
+        <Filename Value="u_main.pas"/>
+        <Caret Line="29" TopLine="5"/>
+      </Position28>
+      <Position29>
+        <Filename Value="u_client.pas"/>
+        <Caret Line="36" TopLine="12"/>
+      </Position29>
+      <Position30>
+        <Filename Value="u_logging.pas"/>
+        <Caret Line="34" Column="32" TopLine="19"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
